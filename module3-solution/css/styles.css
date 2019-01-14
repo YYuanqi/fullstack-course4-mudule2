@@ -1,0 +1,87 @@
+* {
+	box-sizing: border-box;
+	position: relative;
+}
+
+h1 {
+	margin-bottom: 15px;
+	text-align: center;
+}
+
+h3 {
+	font-size: 1.5em;
+	font-style: oblique;
+}
+
+p {
+	width: 95%;
+	margin: auto; 
+	padding: 35px 5px 5px 5px;
+	font-family: Helvetica;
+	color: white;
+}
+
+.section {
+	background-color: gray;
+	margin: 10px;
+	border: solid;
+}
+
+.row {
+	width: 100%;
+}
+
+.menu {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	margin-top: 0px;
+	text-align: center;
+	width: 100px;
+	height: 30px;
+	border: solid 1px;
+}
+
+.chicken {
+	background-color: pink;
+}
+
+.beef {
+	background-color: yellow;
+}
+
+.sushi{
+	background-color: green;
+}
+
+.tall-section {
+	height: 1000px;
+	background-color: #000;
+}
+/** HEARDER **/
+#header-nav {
+	background-color: 111111;
+	border-radius: 0;
+	border: solid 1px;
+}
+
+.navbar-brand {
+	font-size: 1.5em;
+	text-align: left;
+}
+
+#nav-list {
+	margin-top: 30px;
+	text-align: center
+}
+
+#nav-list span {
+	font-size: 1.8em;
+	clear: left;
+}
+
+.container {
+	margin-left: 5px;
+}
+
+
