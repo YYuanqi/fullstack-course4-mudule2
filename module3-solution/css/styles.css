@@ -20,16 +20,6 @@ p {
 	color: white;
 }
 
-.section {
-	background-color: gray;
-	margin: 10px;
-	border: solid;
-}
-
-.row {
-	width: 100%;
-}
-
 .menu {
 	position: absolute;
 	top: 0px;
@@ -80,7 +70,8 @@ p {
 }
 
 .container {
-	margin-left: 5px;
+	width: 100%;
 }
+
 
 
